@@ -1,0 +1,13 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image:url('apple.jpeg');
+  /*background:#151515;*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  color:#00ff00;
+}
